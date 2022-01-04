@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'armtemplatepipelines'
     location: 'UK South'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/Zororaa/Pipeline-repo-ForDelete/0077bc51b6ad2afd9270021b9af628b3e68a0bb1/CreateWebApp/azuredeploy.json'
+    csmFileLink: 'https://raw.githubusercontent.com/Zororaa/Pipeline-repo-ForDelete/0077bc51b6ad2afd9270021b9af628b3e68a0bb1/CreateWebApp/azuredeploy.json?token=AOZJ6NOWK4NFSWM45VWFJ63B3WQWW'
     overrideParameters: '-projectName Projarmpipe'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
